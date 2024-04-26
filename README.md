@@ -1,0 +1,2 @@
+# Intrnet_magazinn
+magazin
